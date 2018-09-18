@@ -18,6 +18,11 @@ public class Employe {
 		System.out.println ("New Feature");
 	}
 		
+		public void testingRollBack ()
+	{
+		
+		System.out.println ("RollBack Testing");
+	}
 	
 	public String getCin() {
 		return cin;
