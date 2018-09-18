@@ -12,6 +12,12 @@ public class Employe {
 		return 1;
 	}
 	
+	public void addingNewFeature ()
+	{
+		
+		System.out.println ("New Feature");
+	}
+		
 	
 	public String getCin() {
 		return cin;
