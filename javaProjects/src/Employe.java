@@ -4,6 +4,8 @@ public class Employe {
 	private String cin;
 	private String nomPrenom;
 	private String adresse;
+	private float taille;
+	private float poids;
 	
 	public String getCin() {
 		return cin;
