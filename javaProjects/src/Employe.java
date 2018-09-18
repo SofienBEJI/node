@@ -7,6 +7,12 @@ public class Employe {
 	private float taille;
 	private float poids;
 	
+	public Employe()
+	{
+		return 1;
+	}
+	
+	
 	public String getCin() {
 		return cin;
 	}
